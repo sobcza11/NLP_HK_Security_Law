@@ -1,4 +1,4 @@
-![alt text](https://github.com/sobcza11/Inflation/blob/main/_other/READ%20ME_Back.jpg)
+![alt text](https://github.com/sobcza11/NLP_HK_Security_Law/blob/main/_supporting/READ%20ME_HK.pdf)
 # OVERVIEW
 Tbc
 
