@@ -16,8 +16,13 @@ In 2020, the Congress of China unanimously passed the National Security Law whic
 
 To reiterate, <b>the goal of this project is not to establish a position on who’s right. The goal is to go through the DSM to see where certain groups stand & on what footing.</b>
 
-# REPORTS
+# CONTENTS
 In the enclosed you will find:
+   * <b>data</b>
+   * <b>source</b>
+   * <b>reports</b>
+
+
    * <b>Notebooks</b>
      * This is where the source code is stored
    * <b>Presentation</b>
