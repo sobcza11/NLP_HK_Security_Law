@@ -11,7 +11,8 @@ In 2020, the Congress of China unanimously passed the National Security Law whic
 This Natural Language Processing ("NLP") Data Science project uses the Data Science Method ("DSM") to identify variances in sentiment during the HK Protests using a hybrid of automatic & rules-based systems. The source of the data was obtained by scraping selected international newspapers & Twitter. 
 
 The goal of the DSM is not to find or present an answer to an apparent geo-political situation but to pragmatically present the facts as they exist; the facts are created by humans resting in unstructured text found in newspapers & social media outlets. Therefore, the initial goal is to build the following 
-   •	Sentiment Analysis, Topic Analysis.
+
+<t>•	Sentiment Analysis, Topic Analysis.
 
 To reiterate, the goal of this project is not to establish a position on who’s right. The goal is to go through the DSM to see where certain groups stand & on what footing.
 
