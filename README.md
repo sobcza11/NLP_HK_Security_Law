@@ -24,4 +24,4 @@ In the enclosed you will find:
      *  <i>This folder contains the <b>source code written in Python</b></i>
    * <b>reports</b>
      * <i>This folder contains the <b>Report & Presentation</b></i>
-       * <i>Please note, this was prepared as a presentation (as the name suggests); thus, it is encouraged to be downloaded & clicked threw on a PDF, not viewed on GitHub.</i>
+       * <i>Please note, the Presentation was prepared as a presentation (as the name suggests); thus, it is encouraged to be downloaded & clicked threw on a PDF, not viewed on GitHub.</i>
