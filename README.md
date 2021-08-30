@@ -12,7 +12,7 @@ This Natural Language Processing ("NLP") Data Science project uses the Data Scie
 
 The goal of the DSM is not to find or present an answer to an apparent geo-political situation but to pragmatically present the facts as they exist; the facts are created by humans resting in unstructured text found in newspapers & social media outlets. Therefore, the initial goal is to build the following 
 
-<t>•	Sentiment Analysis, Topic Analysis.
+&#9;•	Sentiment Analysis, Topic Analysis.
 
 To reiterate, the goal of this project is not to establish a position on who’s right. The goal is to go through the DSM to see where certain groups stand & on what footing.
 
