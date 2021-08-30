@@ -10,7 +10,7 @@ In 2020, the Congress of China unanimously passed the National Security Law whic
 # DESCRIPTION
 <b>This Natural Language Processing</b> ("NLP") <b>Data Science project uses the Data Science Method</b> ("DSM") <b>to identify variances in sentiment during the HK Protests</b> using a hybrid of automatic & rules-based systems. The source of the data was obtained by scraping selected international newspapers & Twitter. 
 
-<b>The goal of the DSM is not to find or present an answer to an apparent geo-political situation but to pragmatically present the facts as they exist</b>; the facts are created by humans resting in unstructured text found in newspapers & social media outlets. Therefore, the initial goal is to build the following 
+<b>The goal of the DSM is not to find or present an answer to an apparent geo-political situation but to pragmatically present the facts as they exist</b>; the facts are created by humans resting in unstructured text found in newspapers & social media outlets. Therefore, the initial goal is to build the following:
 
    * Sentiment Analysis, Topic Analysis
 
@@ -24,4 +24,4 @@ In the enclosed you will find:
      *  <i>This folder contains the <b>source code written in Python</b></i>
    * <b>reports</b>
      * <i>This folder contains the <b>Report & Presentation</b></i>
-       * <i>Please note, the Presentation was prepared as a presentation (as the name suggests); thus, it is encouraged to be downloaded & clicked threw on a PDF, not viewed on GitHub.</i>
+       * <i>Please note, the Presentation was prepared as a presentation (as the name suggests); thus, it is encouraged to be downloaded & clicked threw on a PDF, not viewed on GitHub</i>
