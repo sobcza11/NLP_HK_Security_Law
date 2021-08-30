@@ -19,7 +19,7 @@ To reiterate, <b>the goal of this project is not to establish a position on whoâ
 # CONTENTS
 In the enclosed you will find:
    * <b>data</b>
-     * <i>This folder contains the <b>supporting data in Excel format</b></i>
+     * <i>This folder contains the <b>scraped data in Excel format</b></i>
    * <b>notebooks</b>
      *  <i>This folder contains the <b>source code written in Python</b></i>
    * <b>reports</b>
