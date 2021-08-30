@@ -1,4 +1,4 @@
-![alt text](https://github.com/sobcza11/NLP_HK_Security_Law/blob/main/_supporting/Slide1.jpg)
+![alt text](https://github.com/sobcza11/NLP_HK_Security_Law/blob/main/_supporting/Slide1.JPG)
 # OVERVIEW
 Tbc
 
