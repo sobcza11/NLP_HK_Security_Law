@@ -12,13 +12,14 @@ In 2020, the Congress of China unanimously passed the National Security Law whic
 
 <b>The goal of the DSM is not to find or present an answer to an apparent geo-political situation but to pragmatically present the facts as they exist</b>; the facts are created by humans resting in unstructured text found in newspapers & social media outlets. Therefore, the initial goal is to build the following 
 
-&#9;&#9; •	Sentiment Analysis, Topic Analysis
+   * Sentiment Analysis, Topic Analysis
 
 To reiterate, <b>the goal of this project is not to establish a position on who’s right. The goal is to go through the DSM to see where certain groups stand & on what footing.</b>
 
 # CONTENTS
 In the enclosed you will find:
-   * Notebooks
+   * <b>Notebooks</b>
      * This is where the source code is stored
-   * Presentations
+   * <b>Presentation</b>
      * The Presentation & Report summarizing the findings
+     * <b>Please note, this was prepared as a presentation (as the name suggests); thus, it is encouraged to be downloaded & clicked threw on a PDF, not viewed on GitHub.</b>
