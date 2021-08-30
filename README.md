@@ -19,12 +19,9 @@ To reiterate, <b>the goal of this project is not to establish a position on whoâ
 # CONTENTS
 In the enclosed you will find:
    * <b>data</b>
-   * <b>source</b>
+     * <i>This folder contains the <b>supporting data in Excel format</b></i>
+   * <b>notebooks</b>
+     *  <i>This folder contains the <b>source code written in Python</b></i>
    * <b>reports</b>
-
-
-   * <b>Notebooks</b>
-     * This is where the source code is stored
-   * <b>Presentation</b>
-     * The Presentation & Report summarizing the findings
-     * <b>Please note, this was prepared as a presentation (as the name suggests); thus, it is encouraged to be downloaded & clicked threw on a PDF, not viewed on GitHub.</b>
+     * <i>This folder contains the <b>Report & Presentation</b></i>
+       * <i>Please note, this was prepared as a presentation (as the name suggests); thus, it is encouraged to be downloaded & clicked threw on a PDF, not viewed on GitHub.</i>
