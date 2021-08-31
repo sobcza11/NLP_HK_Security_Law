@@ -17,7 +17,7 @@ In 2020, the Congress of China unanimously passed the National Security Law whic
 To reiterate, <b>the goal of this project is not to establish a position on who’s right. The goal is to go through the DSM to see where certain groups stand & on what footing.</b>
 
 # CONTENTS
-In the enclosed you will find:
+Here you will find the following folders & description of what is located in each:
    * <b>data</b>
      * <i>This folder contains the <b>scraped data in Excel format</b></i>
    * <b>notebooks</b>
