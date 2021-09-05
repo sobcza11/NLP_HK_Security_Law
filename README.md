@@ -24,4 +24,4 @@ Here you will find the following folders & description of what is located in eac
      *  <i>This folder contains the <b>source code written in Python</b></i>
    * <b>reports</b>
      * <i>This folder contains the <b>Report & Presentation</b></i>
-       * <i>As the name suggests, the Presentation was prepared as a presentation; thus, I suggest that it is downloaded & perused as a PDF, not viewed on GitHub</i>
+       * <i>As the name suggests, the Presentation was prepared as a presentation; thus, I suggest that it is downloaded & viewed as a PDF, not viewed on GitHub</i>
