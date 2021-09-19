@@ -1,4 +1,4 @@
-![alt text](https://github.com/sobcza11/NLP_HK_Security_Law/blob/main/_supporting/Slide1.JPG)
+![alt text](https://github.com/sobcza11/NLP_HK_Security_Law/blob/main/_supporting/READ%20ME_HK.jpg)
 # OVERVIEW
 After the end of the First Opium War in 1841, the Qing Dynasty ceded Hong Kong ("HK") to the United Kingdom ("UK"). After World War 2 & still under British rule, HK became a global financial center & its population developed a hybrid culture of maintaining their Chinese ethos while adopting British principles; notably Common Law.
 
