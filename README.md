@@ -4,7 +4,7 @@ After the end of the First Opium War in 1841, the Qing Dynasty ceded Hong Kong (
 
 In 1984, the UK & China signed the Sino-British Joint Declaration whereby the UK agreed to cede HK back to China in 1997 under “one country, two systems” ("OcTs"). The mutually agreed OcTs outlined that from 1997 to 2047, HK would not participate in China’s socialist system & HK's capitalist system, Common Law & way of life to remain unchanged. In 1997, the transfer was complete & HK was handed back to China under OcTs.
 
-In 2020, the Congress of China unanimously passed the National Security Law which, for simplicity purposes, criminalizes secession, subversion of state power, terrorism & collusion with foreign entities in HK. This law was not enacted by the HK Legislative Council which in HK Basic Law, Article 23, is defined as the governing body to enact such law. This dichotomy in perceived legal right led to notable protests in HK ("HK Protests").
+In 2020, the Congress of China unanimously passed the National Security Law. For simplicity purposes, this law criminalizes secession, subversion of state power, terrorism & collusion with foreign entities in HK. This law was not enacted by the HK Legislative Council which in HK Basic Law, Article 23, is defined as the governing body to enact such law. This dichotomy in perceived legal right led to notable protests in HK ("HK Protests").
 
 
 # DESCRIPTION
